@@ -1,4 +1,4 @@
-# Contoso Traders ABresolve
+# Contoso Traders ABresolve1
 
 ![Logo](./docs/images/logo-1280x640.png)
 
