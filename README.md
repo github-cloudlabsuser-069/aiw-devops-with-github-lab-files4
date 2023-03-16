@@ -1,4 +1,4 @@
-# Contoso Traders
+# Contoso Traders AB#1
 
 ![Logo](./docs/images/logo-1280x640.png)
 
